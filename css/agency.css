@@ -357,6 +357,7 @@ section {
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
+    text-align: left;
     font-size: 40px;
 }
 

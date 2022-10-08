@@ -5,6 +5,7 @@
 Seja bem-vinde ao repositório do site oficial do Pyladies Recife. :heart_eyes:
 
 ### :books: UI do Site
+
 A fonte a ser usada será a Roboto e o link para baixar a fonte pode ser encontrado [aqui](https://fonts.google.com/specimen/Roboto).
 
 O protótipo seguirá as orientações do Figma - link do protótipo [aqui :D](https://www.figma.com/file/ovWn0ywxP8H1I623rhVJzr/PyLadies-Recife?node-id=1%3A2)
@@ -19,7 +20,7 @@ Implementar as alterações de acordo com as especificaçẽs do Figma. O site d
 
 - [Artigo com exemplo de Acessiblidade Web](https://www.w3.org/WAI/tips/developing/)
 
-As edições serão majoritariamente no `index.html`  e nos arquivos CSS (`custom.css`)
+As edições serão majoritariamente no `index.html` e nos arquivos CSS (`custom.css`)
 
 ### :hammer: Como rodar este projeto?
 
@@ -27,8 +28,10 @@ As edições serão majoritariamente no `index.html`  e nos arquivos CSS (`custo
 
 - `http-server:` Instale a extensão e rode o comando `python3 -m http.server 8000` e cole o seguinte endereço no seu navegador: `localhost:8000`
 
-Para saber como construir este site, podes encontrar mais informações em: [CONTRIBUITNG.md](https://github.com/pyladiesrecife/site/blob/main/CONTRIBUITING.md)
+Para saber como construir este site, podes encontrar mais informações em: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 Vamos contribuir juntes? :stars:
-____
+
+---
+
 Código fonte originado do site PyLadies Ribeirão Preto : https://pyladies-rp.github.io
